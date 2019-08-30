@@ -1,0 +1,24 @@
+table{
+	color: #ffffff;
+	padding: 10px;
+	margin-top: 5px;
+	padding-top: 5px;
+	background-color: #1a1aff;
+}
+.d3i{
+	background-color: #ffffff;
+	padding: 2%;
+	border-radius: 8px 8px 8px 8px;
+	margin-bottom: 5px;
+}
+a{
+	border-radius:5px 5px 5px 5px; 
+	padding: 2px;
+	text-decoration: none;
+	color:#ffffff;
+	background-color: #1a1aff;
+	transition-duration: 1s;
+}
+.as a:hover{
+	padding: 10px;
+}
